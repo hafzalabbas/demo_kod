@@ -1,0 +1,289 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* bi_inventory_valuation_reports
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 08:15+0000\n"
+"PO-Revision-Date: 2022-02-28 08:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.actions.report,print_report_name:bi_inventory_valuation_reports.inventory_product_category_template_pdf
+msgid "'Inventory Detail Report'"
+msgstr "'Informe detallado de inventario'"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "<u><b>Inventory Valuation Report</b></u>"
+msgstr "<u><b>Informe de valoración de inventario</b></u>"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "<u><b>Inventory Valuation Summary Report</b></u>"
+msgstr "<u><b>Informe resumido de valoración de inventario</b></u>"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Adjustment"
+msgstr "Ajustamiento"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Amount in currency"
+msgstr "Importe en moneda"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Beginning"
+msgstr "Comenzando"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_book_day_excel
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__category
+#: model:ir.model.fields.selection,name:bi_inventory_valuation_reports.selection__sale_day_book_wizard__filter_by__categ
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Category"
+msgstr "Categoría"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__company_id
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Company"
+msgstr "Compañía"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Cost Price"
+msgstr "Precio de coste"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Costing Method"
+msgstr "Método de costeo"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_report_excel__create_uid
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_report_excel__create_date
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.ui.menu,name:bi_inventory_valuation_reports.menu_sales_day_book
+msgid "Day Book Report"
+msgstr "Informe del libro diario"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Default Code"
+msgstr "Código predeterminado"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_product_product__display_name
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_report_bi_inventory_valuation_reports_sales_daybook_template__display_name
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_report_excel__display_name
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__display_name
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__end_date
+msgid "End Period"
+msgstr "Período de finalización"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Ending"
+msgstr "Finalizando"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_report_excel__file_name
+msgid "Excel File"
+msgstr "Archivo Excel"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_report_excel__excel_file
+msgid "Excel Report For Sale Book Day "
+msgstr "Informe de Excel para la venta del día del libro"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__filter_by
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Filter By"
+msgstr "Filtrado por"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_book_day_excel
+msgid "Genrated xls File"
+msgstr "Archivo xls generado"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_product_product__get_all
+msgid "Get All"
+msgstr "Obtener toda"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_product_product__id
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_report_bi_inventory_valuation_reports_sales_daybook_template__id
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_report_excel__id
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__id
+msgid "ID"
+msgstr "IDENTIFICACIÓN"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Internal"
+msgstr "Interna"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.actions.report,name:bi_inventory_valuation_reports.inventory_product_category_template_pdf
+msgid "Inventory Detail Report"
+msgstr "Informe detallado de inventario"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.actions.act_window,name:bi_inventory_valuation_reports.action_sale_daybook_report_product_category
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Inventory Valuation"
+msgstr "Valoración de inventario"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.ui.menu,name:bi_inventory_valuation_reports.menu_sale_book_report_product_category
+msgid "Inventory Valuation Report"
+msgstr "Informe de valoración de inventario"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_product_product____last_update
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_report_bi_inventory_valuation_reports_sales_daybook_template____last_update
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_report_excel____last_update
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard____last_update
+msgid "Last Modified on"
+msgstr "Última modificación el"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_report_excel__write_uid
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_report_excel__write_date
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__write_date
+msgid "Last Updated on"
+msgstr "Ultima actualización en"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__location_id
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Location"
+msgstr "Ubicación"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Name"
+msgstr "Nombre"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Print Excel"
+msgstr "Imprimir excel"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Print Pdf"
+msgstr "Imprimir Pdf"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model,name:bi_inventory_valuation_reports.model_product_product
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__product_ids
+#: model:ir.model.fields.selection,name:bi_inventory_valuation_reports.selection__sale_day_book_wizard__filter_by__product
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Product"
+msgstr "Producto"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Received"
+msgstr "Recibida"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model,name:bi_inventory_valuation_reports.model_report_bi_inventory_valuation_reports_sales_daybook_template
+msgid "Report bi_inventory_valuation_reports.sales_daybook_template"
+msgstr ""
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model,name:bi_inventory_valuation_reports.model_sale_day_book_report_excel
+msgid "Sale Day Book Report Excel"
+msgstr "Venta Día Libro Informe Excel"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model,name:bi_inventory_valuation_reports.model_sale_day_book_wizard
+msgid "Sale Day Book Wizard"
+msgstr "Asistente de libro de día de venta"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Sales"
+msgstr "Ventas"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__start_date
+msgid "Start Period"
+msgstr "Período de inicio"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__display_sum
+msgid "Summary"
+msgstr "Summary"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "To"
+msgstr "Para"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Total Value"
+msgstr "Total Value"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Valuation"
+msgstr "Valuación"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+msgid "Valuation Date"
+msgstr "Fecha de la valoración"
+
+#. module: bi_inventory_valuation_reports
+#: model:ir.model.fields,field_description:bi_inventory_valuation_reports.field_sale_day_book_wizard__warehouse
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.sales_daybook_template
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "Warehouse"
+msgstr "Warehouse"
+
+#. module: bi_inventory_valuation_reports
+#: model_terms:ir.ui.view,arch_db:bi_inventory_valuation_reports.view_sale_date_wizard
+msgid "or"
+msgstr "o"
